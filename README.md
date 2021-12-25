@@ -13,3 +13,5 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/EverLookNeverSee/extending_nn_u_net)
 ![GitHub contributors](https://img.shields.io/github/contributors/EverLookNeverSee/extending_nn_u_net)
 ![GitHub last commit](https://img.shields.io/github/last-commit/EverLookNeverSee/extending_nn_u_net)
+
+![](data/Diagram.png)
