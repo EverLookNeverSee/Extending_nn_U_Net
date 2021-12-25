@@ -1,3 +1,5 @@
+![](data/logo.png)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/everlookneversee/extending_nn_u_net/badge)](https://www.codefactor.io/repository/github/everlookneversee/extending_nn_u_net)
 ![GitHub](https://img.shields.io/github/license/EverLookNeverSee/extending_nn_u_net)
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/EverLookNeverSee/extending_nn_u_net/main)
