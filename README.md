@@ -1,2 +1,13 @@
-# Extending_nn_U_Net
-Extending nn U-Net for Brain Tumor Segmentation
+[![CodeFactor](https://www.codefactor.io/repository/github/everlookneversee/extending_nn_u_net/badge)](https://www.codefactor.io/repository/github/everlookneversee/extending_nn_u_net)
+![GitHub](https://img.shields.io/github/license/EverLookNeverSee/extending_nn_u_net)
+![GitHub branch checks state](https://img.shields.io/github/checks-status/EverLookNeverSee/extending_nn_u_net/main)
+![GitHub language count](https://img.shields.io/github/languages/count/EverLookNeverSee/extending_nn_u_net)
+![GitHub top language](https://img.shields.io/github/languages/top/EverLookNeverSee/extending_nn_u_net)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/EverLookNeverSee/extending_nn_u_net)
+![Lines of code](https://img.shields.io/tokei/lines/github/EverLookNeverSee/extending_nn_u_net)
+![GitHub all releases](https://img.shields.io/github/downloads/EverLookNeverSee/extending_nn_u_net/total)
+![GitHub issues](https://img.shields.io/github/issues-raw/EverLookNeverSee/extending_nn_u_net)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/EverLookNeverSee/extending_nn_u_net)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/EverLookNeverSee/extending_nn_u_net)
+![GitHub contributors](https://img.shields.io/github/contributors/EverLookNeverSee/extending_nn_u_net)
+![GitHub last commit](https://img.shields.io/github/last-commit/EverLookNeverSee/extending_nn_u_net)
