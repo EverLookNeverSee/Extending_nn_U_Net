@@ -18,7 +18,7 @@
 
 ## About
 This repository is the implementation of **Extending nn U-Net** paper.
-* Paper url: [Go to link](https://arxiv.org/abs/2112.04653v1)
+* Paper abstract: [Go to link](https://arxiv.org/abs/2112.04653v1)
 * PapersWithCode: [Go to link](https://paperswithcode.com/paper/extending-nn-unet-for-brain-tumor)
 
 
