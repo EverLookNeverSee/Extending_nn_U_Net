@@ -29,3 +29,7 @@ This repository is the implementation of **Extending nn U-Net** paper.
 * Codebase:
     * [Milad Sadeghi DM](https://elns.ir)
     * List of [all contributors](https://github.com/EverLookNeverSee/Extending_nn_U_Net/graphs/contributors) to this repository.
+
+
+## License
+This project licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
